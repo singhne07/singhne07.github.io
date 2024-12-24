@@ -1,4 +1,4 @@
-<img src="INSEADPic.jpg" alt="Neha Singh" width="300">
+<img src="INSEADPic.png" alt="Neha Singh" width="300">
 
 # singhne07.github.io
 
