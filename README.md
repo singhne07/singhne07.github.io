@@ -1,3 +1,5 @@
+<img src="INSEADPic.jpg" alt="Neha Singh" width="300">
+
 # singhne07.github.io
 
 #### Link to PCDE-Activity-9.1 Repository
